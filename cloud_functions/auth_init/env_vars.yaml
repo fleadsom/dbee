@@ -1,0 +1,4 @@
+GOOGLE_CLIENT_ID: 9293145222-55di4hhng7mi9ujm90ro4c7bi4jq0d32.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET: _WjhuMwmApT4plFgAcr7as2q
+GOOGLE_CALLBACK_URL: https://us-central1-hack-hackasaumon.cloudfunctions.net/auth_callback
+PUBSUB_TOPIC: email-feed
